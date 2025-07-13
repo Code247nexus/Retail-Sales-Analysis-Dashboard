@@ -52,7 +52,7 @@ The goal of this project was to analyze a retail store's sales dataset, calculat
 
 ## 📸 Project Snapshots  
 
-*(You can add screenshots of your dashboard and charts here after uploading the images to your GitHub repo or through external links)*  
+![Dashboard Screenshot](./dashboard-screenshot.png)
 
 ---
 
