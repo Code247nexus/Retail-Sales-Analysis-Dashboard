@@ -50,12 +50,6 @@ The goal of this project was to analyze a retail store's sales dataset, calculat
 
 ---
 
-## 📸 Project Snapshots  
-
-![Vrinda Annual Report](./snap-of-vrinda-annual-report.jpg)
-
----
-
 ## 📌 How to Use
 
 1. Download or clone the repository.
